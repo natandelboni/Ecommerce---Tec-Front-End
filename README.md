@@ -50,6 +50,7 @@ Após a instalação das dependências, você pode iniciar o servidor de desenvo
 npm run dev
 # OU se preferir usar Yarn:
 # yarn dev
+```
 
 
 
